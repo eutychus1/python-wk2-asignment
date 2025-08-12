@@ -55,6 +55,10 @@ This script demonstrates basic list operations in Python, including:
 ## Example Output
 When running the script, the output will be:
 
+Index of 30: 3
+Final list: [10, 15, 20, 30, 40, 50, 60]
+
+
 
 ## Requirements
 - Python 3.x
