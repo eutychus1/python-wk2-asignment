@@ -54,3 +54,18 @@ This script demonstrates basic list operations in Python, including:
 
 ## Example Output
 When running the script, the output will be:
+
+
+## Requirements
+- Python 3.x
+
+## Running the Script
+1. Save the script as `list_operations.py`.
+2. Open a terminal and run:
+    ```bash
+    python list_operations.py
+    ```
+
+---
+
+**Author:** *EUTYCHUS MWENDWA*
